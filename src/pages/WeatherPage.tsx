@@ -22,7 +22,7 @@ const WeatherPage: React.FC = () => {
           },
           headers: {
             //'X-RapidAPI-Key': '',
-            'X-RapidAPI-Key': '',
+            'X-RapidAPI-Key': 'b67ef0815amshea09b1142455df1p14f52bjsn590baf9ae151',
             'X-RapidAPI-Host': 'ai-weather-by-meteosource.p.rapidapi.com',
           },
         };
