@@ -1,5 +1,5 @@
 <h1> Simple Weather App Demo </h1>
-<h3> Ionic & React framework Demo Project  </h3>
+<h3> ⛅ Ionic & React framework Demo Project  </h3>
 <p>This Ionic demo application implements a simple weather app that retrieves data from an API through Axios. </p>
 
 <hr>
